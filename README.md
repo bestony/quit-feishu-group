@@ -1,15 +1,12 @@
-# group
+# 飞书退群 CLI
 
-To install dependencies:
+## 依赖
 
-```bash
-bun install
-```
+1. 你有一个飞书开放平台应用，并且有 im:chat 权限
 
-To run:
 
-```bash
-bun run index.ts
-```
+## 用法
 
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+## LICENSE 
+MIT

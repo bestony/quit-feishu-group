@@ -1,0 +1,15 @@
+{
+  "name": "group",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.33.0",
+    "enquirer": "^2.4.1"
+  }
+}

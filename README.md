@@ -7,12 +7,15 @@
 
 ## 用法
 
-1. 访问[飞书开放平台调试台](https://open.feishu.cn/api-explorer)，点击左侧「查看鉴权凭证」中的「User Access Token」的获取按钮，获取 Token 。![](https://postimg.aliavv.com/m1/5xjw2w.png)获取完成后，粘贴到编辑器中备用。
+1. 访问[飞书开放平台调试台](https://open.feishu.cn/api-explorer)，点击左侧「查看鉴权凭证」中的「User Access Token」的获取按钮，获取 Token ,获取完成后，粘贴到编辑器中备用。
+![](https://postimg.aliavv.com/m1/5xjw2w.png)
 
 
-2. 在左侧 API 列表中，找到【发送消息】，点击进入 API 调试页面，将右侧页面切换至查询参数，并选择 receive_id_type 为 open_id， 点击上面的【选择成员】，选择你自己，会自动把你的 OpenID 复制到剪贴板里，粘贴到编辑器中备用。
+3. 在左侧 API 列表中，找到【发送消息】，点击进入 API 调试页面，将右侧页面切换至查询参数，并选择 receive_id_type 为 open_id， 点击上面的【选择成员】，选择你自己，会自动把你的 OpenID 复制到剪贴板里，粘贴到编辑器中备用。
 
-3. clone 项目并 安装依赖
+![](https://postimg.aliavv.com/m1/0iqikg.png)
+
+4. clone 项目并 安装依赖
 
 ```bash
 git clone https://github.com/bestony/quit-feishu-group.git
